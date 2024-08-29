@@ -968,6 +968,9 @@ Footer
     display: block;
     margin-bottom: 16px;
   }
+  .footer-social {
+    margin: 0;
+  }
 
   .footer-form {
     gap: 24px;
@@ -979,6 +982,7 @@ Footer
     width: 264px;
   }
 }
+
 @media screen and (min-width: 1158px) {
   .footer {
     padding-top: 100px;
